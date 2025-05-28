@@ -20,7 +20,7 @@ data buku terbaru berhasil ditambahkan
 tambahkan lagi data buku, jika tampilan terpotong bisa digulir juga secara horizontal dan vertikal untuk dapat melihat data buku
 ![Screenshot 2025-05-28 213247](https://github.com/user-attachments/assets/6eec3f89-c99b-40a1-9cc9-a47a200ef7b7)
 
-nama dan nim sudah diletakkan pada di bagian bawah window
+nama dan nim sudah diletakkan di bagian bawah window
 ![Screenshot 2025-05-28 213334](https://github.com/user-attachments/assets/e22587d0-a5d5-4cb3-bbfe-43427bf7729c)
 
 di bagian kiri terdapat bilah untuk pencarian judul. saat diketik "su", data buku yang ditampilkan akan disaring berdasarkan judul buku yang memiliki hurus "su"
